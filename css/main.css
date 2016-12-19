@@ -88,6 +88,7 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+
 h1 { font-size: 200%;}
 h2 { font-size: 180%;}
 h3 { font-size: 160%;}
@@ -95,6 +96,7 @@ h4 { font-size: 140%;}
 h5 { font-size: 120%;}
 h6 { font-size: 100%;}
 
+  
 #wrapper {
    width: 960px;
    margin-left: auto;
@@ -122,6 +124,7 @@ h6 { font-size: 100%;}
   text-decoration: none;
   color: white;
 }
+
 #menu ul {
   margin: 0px;
   padding: 0px;
@@ -130,6 +133,7 @@ h6 { font-size: 100%;}
   display: inline;
   padding: 10px;
 }
+
 #logo img {
   height: 86px;
   width: 86px;
@@ -141,6 +145,7 @@ h6 { font-size: 100%;}
   padding: 25px;
   margin-top: 0px;
 }
+
 #banner {
   clear: both;
   height: 366px;  
@@ -154,10 +159,10 @@ h6 { font-size: 100%;}
   margin: 0px;
 }
 #footer {
- clear: both;
- background-color: red;
- padding-left: 30px;
- height: 190px;
+  clear: both;
+  background-color: red;
+  padding-left: 30px;
+  height: 190px;
 }
 #main_content {
   width: 545px;
@@ -180,36 +185,34 @@ h2{
 h3,h5{
   font-family: 'Quicksand', sans-serif;
 }
+
 span{
   font-family: 'Quicksand', sans-serif;
 }
+
 h4{
   font-size: 14px;
   font-family: 'Quicksand', sans-serif;
 }
 .button {
-  background-color: white;
-  border: 2px solid red;
-  color: red;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
+    background-color: white;
+    border: 2px solid red;
+    color: red;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
+
 div{
   font-family: 'Open Sans', sans-serif;
 }
+
 p{
   font-family: 'Open Sans', sans-serif;
   font-size: 14px; 
 }
-
-
-
-
-
-
 /* ==========================================================================
    Helper classes
    ========================================================================== */
